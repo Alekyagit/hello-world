@@ -1,3 +1,9 @@
 # hello-world
 sample file
-hi alekya
+i=input("Hi, did you Had your breakfast")
+if
+{i=yes
+print("okay")
+else
+print("not yet")
+}
